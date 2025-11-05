@@ -1,0 +1,19 @@
+{
+  "name": "Daywards Dark",
+  "type": "custom",
+  "Background": "#0d2a34",
+  "Foreground": "#869395",
+  "LightBlue": "#869395",
+  "AccentBlue": "#4689cc",
+  "AccentPurple": "#6c70be",
+  "AccentCyan": "#519e97",
+  "AccentGreen": "#88982d",
+  "AccentYellow": "#ae8a2c",
+  "AccentRed": "#ca4238",
+  "Comment": "#5c6d74",
+  "Gray": "#697a81",
+  "DiffAdded": "#A6E3A1",
+  "DiffRemoved": "#bc5329",
+  "DiffModified": "#89B4FA",
+  "GradientColors": ["#ed683c", "#f3903f", "#fdc70c"]
+}
